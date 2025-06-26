@@ -102,6 +102,7 @@ dependencies:
       - attrs==25.3.0
       - beautifulsoup4==4.13.3
       - bitsandbytes==0.41.1
+      - bleach==6.1.0
       - click==8.1.8
       - contourpy==1.1.1
       - cycler==0.12.1
@@ -182,6 +183,7 @@ dependencies:
       - uc-micro-py==1.0.3
       - uvicorn==0.23.2
       - wandb==0.19.6
+      - webencodings==0.5.1
       - websockets==11.0.3
       - yarl==1.15.2
 prefix: /home/jihun/anaconda3/envs/lisa
