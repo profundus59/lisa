@@ -168,10 +168,10 @@ examples = [
         "Assuming you are an autonomous driving robot, what part of the diagram would you manipulate to control the direction of travel? Please output segmentation mask and explain why.",
         "./resources/imgs/example1.jpg",
     ],
-    [
-        "What can make the woman stand higher? Please output segmentation mask and explain why.",
-        "./resources/imgs/example3.jpg",
-    ],
+    # [
+    #     "What can make the woman stand higher? Please output segmentation mask and explain why.",
+    #     "./resources/imgs/example3.jpg",
+    # ],
 ]
 output_labels = ["Segmentation Output"]
 
